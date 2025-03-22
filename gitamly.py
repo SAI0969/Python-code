@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # Your bot's API token (provided by BotFather)
-API_TOKEN = '7489475122:AAEeqOUYWFdG9tlUzwrDtGO2uAtetjBA6Vw'
+API_TOKEN = ''
 
 
 x = r"C:/Users/gayat/Downloads/Gitam Python"
